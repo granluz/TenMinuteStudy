@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PublicInheritancevirtual", "PublicInheritancevirtual.vcxproj", "{19107D53-1346-4407-9B25-F1FB85169DC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19107D53-1346-4407-9B25-F1FB85169DC9}.Debug|x64.ActiveCfg = Debug|x64
+		{19107D53-1346-4407-9B25-F1FB85169DC9}.Debug|x64.Build.0 = Debug|x64
+		{19107D53-1346-4407-9B25-F1FB85169DC9}.Debug|x86.ActiveCfg = Debug|Win32
+		{19107D53-1346-4407-9B25-F1FB85169DC9}.Debug|x86.Build.0 = Debug|Win32
+		{19107D53-1346-4407-9B25-F1FB85169DC9}.Release|x64.ActiveCfg = Release|x64
+		{19107D53-1346-4407-9B25-F1FB85169DC9}.Release|x64.Build.0 = Release|x64
+		{19107D53-1346-4407-9B25-F1FB85169DC9}.Release|x86.ActiveCfg = Release|Win32
+		{19107D53-1346-4407-9B25-F1FB85169DC9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F18FBDED-77A3-43B2-A52D-5A3D02DF93AC}
+	EndGlobalSection
+EndGlobal
